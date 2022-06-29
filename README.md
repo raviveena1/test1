@@ -1,2 +1,2 @@
 # test1
-test repo
+test repository for git command 
